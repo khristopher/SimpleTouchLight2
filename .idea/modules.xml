@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SimpleTouchLight.iml" filepath="$PROJECT_DIR$/SimpleTouchLight.iml" />
+      <module fileurl="file://$USER_HOME$/Development/mopub-sdk/src/main/main.iml" filepath="$USER_HOME$/Development/mopub-sdk/src/main/main.iml" />
+    </modules>
+  </component>
+</project>
+

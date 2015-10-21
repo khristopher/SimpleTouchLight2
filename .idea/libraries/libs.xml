@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Development/mopub-sdk/libs/MMSDK.jar!/" />
+      <root url="jar://$USER_HOME$/Development/mopub-sdk/libs/android-support-v4.jar!/" />
+      <root url="jar://$USER_HOME$/Development/mopub-sdk/libs/GoogleAdMobAdsSdk-6.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

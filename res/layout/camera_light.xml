@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent" android:weightSum="1">
+
+    <SurfaceView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/surfaceView" android:layout_gravity="center_horizontal" android:layout_weight="1.12"/>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="125dp" android:weightSum="1">
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Back"
+                android:id="@+id/button" android:layout_weight="0.81" android:textSize="30dp"/>
+        <Space
+                android:layout_width="101dp"
+                android:layout_height="53dp"
+                />
+        <ZoomControls
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/zoomControls" android:layout_weight="0.81"/>
+    </LinearLayout>
+</LinearLayout>
